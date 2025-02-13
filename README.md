@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<image align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Fprogrammer&psig=AOvVaw1PsoPkSIHW6tbnZR5IDgsh&ust=1739560017315000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDU9s2qwYsDFQAAAAAdAAAAABAJ">
+<image align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw1PsoPkSIHW6tbnZR5IDgsh&ust=1739560017315000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDU9s2qwYsDFQAAAAAdAAAAABAS">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahsawarkhan28032&label=Profile%20views&color=0e75b6&style=flat" alt="shahsawarkhan28032"/> </p>
 
