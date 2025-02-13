@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952xubxxit58br6fo06nw9j7su4dmuseoh9pzu60qd1&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="coding" align="right" with="600">
+<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952xubxxit58br6fo06nw9j7su4dmuseoh9pzu60qd1&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="coding" align="right" with="600px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahsawarkhan28032&label=Profile%20views&color=0e75b6&style=flat" alt="shahsawarkhan28032"/> </p>
 
