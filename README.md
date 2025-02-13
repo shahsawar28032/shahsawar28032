@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP, MySQL, and JavaScript**
 
-- 📫 How to reach me **shahsawarkhan28032@gmail.com**
+- 📫 How to reach me **shahsawar28032@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
