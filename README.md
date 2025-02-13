@@ -1,4 +1,3 @@
-![Banner Image](https://www.canva.com/design/DAGe9cq4P1k/wWV5MLBTW73BHE6c17expA/edit?utm_content=DAGe9cq4P1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
