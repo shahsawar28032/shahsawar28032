@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<image align="right" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952l4pq287d890n7hanzcmiyjo0qpky9nhjd2g1nhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahsawarkhan28032&label=Profile%20views&color=0e75b6&style=flat" alt="shahsawarkhan28032"/> </p>
 
