@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-https://i.makeagif.com/media/7-08-2019/cUwqNz.gif
-
+,o,g src="https://i.makeagif.com/media/7-08-2019/cUwqNz.gif
+" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahsawarkhan28032&label=Profile%20views&color=0e75b6&style=flat" alt="shahsawarkhan28032"/> </p>
 
 - 🔭 I’m currently working on **WordPress Project**
