@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU width="400" align='right' height="500" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU width="400" align='right' " />
 - 🔭 I’m currently working on **WordPress Project**
 
 - 👯 I’m looking to collaborate on [Internship opportunities in web development](https://github.com/shahsawar28032/CMS-PROJECT/tree/master)
