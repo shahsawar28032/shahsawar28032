@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b95234nab0xyfmscx467g52oag8li7cnhbmqcupbjwt9&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b95234nab0xyfmscx467g52oag8li7cnhbmqcupbjwt9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" align='left' />
 
 - 🔭 I’m currently working on **WordPress Project**
 
