@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b95234nab0xyfmscx467g52oag8li7cnhbmqcupbjwt9&ep=v1_gifs_search&rid=giphy.gif&ct=g width="400" align='right' />
+<img src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif" width="600" style="float: right;" />
+
 - 🔭 I’m currently working on **WordPress Project**
 
 - 👯 I’m looking to collaborate on [Internship opportunities in web development](https://github.com/shahsawar28032/CMS-PROJECT/tree/master)
