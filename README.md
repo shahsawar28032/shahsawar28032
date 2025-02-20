@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://i.makeagif.com/media/7-08-2019/cUwqNz.gif" alt="shahsawarkhan28032"/> </p>
+<img src="https://raw.githubusercontent.com/username/repo/main/assets/banner.png" width="600" />
 
 - 🔭 I’m currently working on **WordPress Project**
 
