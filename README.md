@@ -1,4 +1,4 @@
-![Banner](profile.png)
+![Banner](profile2.png)
 
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
