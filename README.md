@@ -5,7 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" />
 ![Profile Views](https://komarev.com/ghpvc/?username=shahsawar28032&color=blue)
-
 - 🔭 I’m currently working on **WordPress Project**
 
 - 👯 I’m looking to collaborate on [Internship opportunities in web development](https://github.com/shahsawar28032/CMS-PROJECT/tree/master)
