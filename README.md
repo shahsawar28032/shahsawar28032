@@ -1,11 +1,10 @@
 ![Banner](profile2.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahsawar28032&color=blue)
-
 <h1 align="center">Hi 👋, I'm Shahsawar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" />
+![Profile Views](https://komarev.com/ghpvc/?username=shahsawar28032&color=blue)
 
 - 🔭 I’m currently working on **WordPress Project**
 
